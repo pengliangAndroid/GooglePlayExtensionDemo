@@ -7,9 +7,9 @@ android {
    /* signingConfigs {
         config {
             keyAlias 'hdgame'
-            keyPassword 'hodogame'
-            storePassword 'hodogame'
-            storeFile file('./hdgame.jks')
+            keyPassword ''
+            storePassword ''
+            storeFile file('./game.jks')
             v2SigningEnabled false
         }
     }
