@@ -10,7 +10,8 @@
 ---
 ***项目中提供了Google Play下载的Obb文件检测，解压文件，多线程断点下载文件相关代码。***
 
-
+**Demo应用下载地址**
+https://play.google.com/store/apps/details?id=com.hdgame.extensiondmeo
 
 **参考资料**
 
