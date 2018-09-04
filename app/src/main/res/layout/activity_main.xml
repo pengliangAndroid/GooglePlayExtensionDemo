@@ -8,9 +8,13 @@
     tools:context="com.hdgame.extensiondmeo.MainActivity">
 
     <TextView
+        android:id="@+id/tv_msg"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text=""
+        android:gravity="center"
         android:layout_centerInParent="true"
         />
 
